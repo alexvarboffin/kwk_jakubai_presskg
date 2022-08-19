@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Кыргыз гезиттер архиви</string>
+
+    <string name="network">No internet connection</string>
+    <string name="gps_message">Please enable geolocation in settings to continue</string>
+    <string name="toast_cnt_open_file_chooser">Cannot Open File Chooser</string>
+    <string name="toast_no_app_found">No App found</string>
+    <string name="toast_downloading_file">Downloading File</string>
+    <string name="download">Download</string>
+    <string name="to_save">Do you want to save&#160;</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="admob_test_banner_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="app_id" translatable="false">ca-app-pub-1436625240097567~7955571862</string>
+    <string name="admob_banner_id" translatable="false">ca-app-pub-1436625240097567/8336739459</string>
+    <string name="admob_inner" translatable="false">ca-app-pub-1436625240097567/7865718740</string>
+    <string name="admob_run_app_id" translatable="false">ca-app-pub-1436625240097567/6616463675</string>
+
+</resources>

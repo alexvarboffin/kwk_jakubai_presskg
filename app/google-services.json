@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689535406407",
+    "project_id": "arch-gazeta",
+    "storage_bucket": "arch-gazeta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689535406407:android:6cbfccb30164cb51863c62",
+        "android_client_info": {
+          "package_name": "presskg.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689535406407-jsie11sl5ekkmb8d850ajs73ka8637dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK2-Q9Y39yBQPo9pKAe4ioZxime8D898w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689535406407-jsie11sl5ekkmb8d850ajs73ka8637dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

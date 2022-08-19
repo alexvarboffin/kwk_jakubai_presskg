@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Кыргыз гезиттер архиви</string>
+
+    <string name="network">Нет интернет соединения</string>
+    <string name="gps_message">Что бы продолжить включите геолокацию в настрйках</string>
+    <string name="toast_cnt_open_file_chooser">Не удается открыть</string>
+    <string name="toast_no_app_found">Приложение не найдено</string>
+    <string name="toast_downloading_file">Скачивание</string>
+    <string name="download">Скачать</string>
+    <string name="to_save">Вы хотите скачать&#160;</string>
+    <string name="yes">Да</string>
+    <string name="cancel">Отмена</string>
+</resources>
